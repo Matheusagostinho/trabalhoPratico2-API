@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background: radial-gradient(#242424, #131313);
+  color: #fff;
+  font: 400 16px Roboto, sans-serif;
+}

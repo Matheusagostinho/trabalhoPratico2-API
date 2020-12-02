@@ -1,0 +1,41 @@
+.conteinerHeader {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  width: 100%;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 10px;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 30px 0;
+  padding: 0 10px;
+  justify-content: center;
+  z-index: 1032;
+}
+
+.btn {
+  margin-left: 10px;
+  outline: none;
+  height: 30px;
+  text-align: center;
+  width: 130px;
+  border-radius: 10px;
+  background: transparent;
+  border: 1px solid #ffc401;
+  color: #ffc401;
+  text-shadow: 0;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.25s ease;
+}
+
+.btn:hover {
+  color: rgb(17, 17, 17);
+  background: #ffc401;
+}
+.btn:active {
+  letter-spacing: 2px;
+  letter-spacing: 2px;
+}
